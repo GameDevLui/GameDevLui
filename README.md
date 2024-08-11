@@ -8,8 +8,10 @@ I´m a junior programmer with 1 year of experience, currently specialized in Unr
 ### 🧰 Languajes, Engines and Softwares
 
 <img align="left" alt="UnrealEngine" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" />
+<i class="devicon-unrealengine-original"></i>
+          
+<br/>
 
-<br/>        
 #
 
 <details>
