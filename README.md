@@ -13,7 +13,8 @@ I´m a junior programmer with 1 year of experience, currently specialized in Unr
 
 > 👯 Languajes：
 ![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus)
-![Static Badge](https://img.shields.io/badge/CSharp-purple?style=for-the-badge)
+![Static Badge](https://img.shields.io/badge/CSharp-%23A179DC?style=for-the-badge)
+
 
 > 💻 Tools：
 ![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-circle&logo=MongoDB)
