@@ -7,12 +7,26 @@ I´m a junior programmer with 1 year of experience, currently specialized in Unr
 
 <h3 align="left"> 🧰 Languajes, Engines and Tools </h3>
 
-<img align="left" alt="UnrealEngine" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" />
+<img align="left" alt="UnrealEngine" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/pheralb/svgl/5c82f5c8ee850fe1ae505978ae50296c9f5a6f29/static/library/unreal_engine_dark.svg" />
+<img align="left" alt="Unity" width="40px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />
+<br/>
+
 <img align="left" alt="CPlusPlus" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /> 
 <img align="left" alt="CSharp" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
-<img align="left" alt="Unity" width="40px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />
-<img align="left" alt="UnrealEngine" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/pheralb/svgl/5c82f5c8ee850fe1ae505978ae50296c9f5a6f29/static/library/unreal_engine_dark.svg" />
 <br/>
+
+<img align="left" alt="Git" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+<img align="left" alt="Github" width="20px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rdimascio/icons/932c4cf6c9e2031abeca1c164baa0f76785c16fe/icons/light/github.svg" />
+<img align="left" alt="Perforce" width="20px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/perforce/perforce-icon.svg" />
+
+<img align="left" alt="Jira" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
+<img align="left" alt="NTask" width="20px" style="padding-right:10px;" src="https://www.ntaskmanager.com/wp-content/uploads/2022/05/nTask-Logo-Mark.svg" />
+<img align="left" alt="HackNPlan" width="20px" style="padding-right:10px;" src=" https://hacknplan.com/wp-content/uploads/2023/03/cropped-icon.png" />
+
+<img align="left" alt="Notion" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
+          
+<br/>
+
 
 #
 
