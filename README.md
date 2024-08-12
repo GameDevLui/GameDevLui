@@ -16,7 +16,8 @@ I´m a junior programmer with 1 year of experience, currently specialized in Unr
 <img align="left" alt="CPlusPlus" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /> 
 <img align="left" alt="CSharp" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
 
-#
+<br/>
+<br/>
 
 <img align="left" alt="Git" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 <img align="left" alt="Github" width="20px" style="padding-right:10px;" src="https://raw.githubusercontent.com/rdimascio/icons/932c4cf6c9e2031abeca1c164baa0f76785c16fe/icons/light/github.svg" />
@@ -28,6 +29,7 @@ I´m a junior programmer with 1 year of experience, currently specialized in Unr
 
 <img align="left" alt="Notion" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
           
+<br/>
 <br/>
 
 
