@@ -25,7 +25,7 @@ I´m a junior programmer with 1 year of experience, currently specialized in Unr
 
 <img align="left" alt="Jira" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/jira/jira-original.svg" />
 <img align="left" alt="NTask" width="20px" style="padding-right:10px;" src="https://www.ntaskmanager.com/wp-content/uploads/2022/05/nTask-Logo-Mark.svg" />
-<img align="left" alt="HackNPlan" width="20px" style="padding-right:10px;" src=" https://hacknplan.com/wp-content/uploads/2023/03/cropped-icon.png" />
+<img align="left" alt="HackNPlan" width="20px" style="padding-right:10px;" src="https://hacknplan.com/wp-content/uploads/2023/03/cropped-icon.png" />
 
 <img align="left" alt="Notion" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
           
