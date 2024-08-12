@@ -1,11 +1,14 @@
 # <div align="center"> Luis Miguel De La Torre Doval</div>
 
+ <a href="https://theoccultist.com"><img align="center" width="1050px" src="https://pbs.twimg.com/profile_banners/1345828075897040901/1723051514/600x200" /></a>
+
 I´m a junior programmer with 1 year of experience, currently specialized in Unreal Engine 4/5 and C++
 
 <div align="left">
   <a href="mailto:gamedevlui@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
   <a href="https://www.linkedin.com/in/luismigueldelatorredoval/"><img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  /></a>
 </div>
+
 ---
 
 # 🧰 Skills
