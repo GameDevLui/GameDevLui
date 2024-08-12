@@ -5,10 +5,13 @@ I´m a junior programmer with 1 year of experience, currently specialized in Unr
 
 ---
 
-### 🧰 Languajes, Engines and Softwares
+<h3 align="left"> 🧰 Languajes, Engines and Tools </h3>
 
-<img align="left" alt="UnrealEngine" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" />
-          
+<img align="left" alt="UnrealEngine" width="40px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/unrealengine/unrealengine-original.svg" />
+<img align="left" alt="CPlusPlus" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /> 
+<img align="left" alt="CSharp" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
+<img align="left" alt="Unity" width="40px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />
+<img align="left" alt="UnrealEngine" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/kenangundogan/fontisto/036b7eca71aab1bef8e6a0518f7329f13ed62f6b/icons/svg/brand/unreal-engine.svg" />
 <br/>
 
 #
