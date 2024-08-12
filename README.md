@@ -28,7 +28,7 @@ I´m a junior programmer with 1 year of experience, currently specialized in Unr
 <img align="left" alt="Notion" width="20px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/notion/notion-original.svg" />
           
 
-
+<br/>
 
 ---
 
