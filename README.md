@@ -22,28 +22,28 @@ I started studying code as a software developer, it quickly felt boring to me si
 # 🧰 Skills
 
 > ⚙️ Engines<br />
-![UnrealEngine](https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine)
-![Unity](https://img.shields.io/badge/Unity-white?style=for-the-badge&logo=unity&logoColor=black)
+<a href="https://www.unrealengine.com/es-ES">![UnrealEngine](https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine)</a>
+<a href="https://unity.com/es">![Unity](https://img.shields.io/badge/Unity-white?style=for-the-badge&logo=unity&logoColor=black)</a>
 
 > ⌨️ Languajes<br />
-![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus)
-![C#](https://img.shields.io/badge/CSharp-%23A179DC?style=for-the-badge)
+<a href="https://en.wikipedia.org/wiki/C%2B%2B">![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus)</a>
+<a href="https://en.wikipedia.org/wiki/C_Sharp">![C#](https://img.shields.io/badge/CSharp-%23A179DC?style=for-the-badge)</a>
 
 > 🛠️ Tools<br />
-![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
-![Github](https://img.shields.io/badge/Github-%23181717?style=for-the-badge&logo=github)
-![Perforce](https://img.shields.io/badge/Perforce-%23404040?style=for-the-badge&logo=perforce)
-![Jira](https://img.shields.io/badge/Jira-%230052CC?style=for-the-badge&logo=jira)
-![Obsidian](https://img.shields.io/badge/Obsidian-%237C3AED?style=for-the-badge&logo=obsidian)
+<a href="https://git-scm.com">![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)</a>
+<a href="https://github.com">![Github](https://img.shields.io/badge/Github-%23181717?style=for-the-badge&logo=github)</a>
+<a href="https://www.perforce.com/products/helix-core">![Perforce](https://img.shields.io/badge/Perforce-%23404040?style=for-the-badge&logo=perforce)</a>
+<a href="https://www.atlassian.com/software/jira">![Jira](https://img.shields.io/badge/Jira-%230052CC?style=for-the-badge&logo=jira)</a>
+<a href="https://obsidian.md">![Obsidian](https://img.shields.io/badge/Obsidian-%237C3AED?style=for-the-badge&logo=obsidian)</a>
 
 > 🎒 Other Skills<br />
-![C](https://img.shields.io/badge/-%23A8B9CC?style=flat&logo=c&logoColor=white)
-![Java](https://img.shields.io/badge/Java-%23DF0207?style=flat)
-![DotNet](https://img.shields.io/badge/-%23512BD4?style=flat&logo=dotnet)
-![Python](https://img.shields.io/badge/-%233776AB?style=flat&logo=python&logoColor=white)
-![HTML](https://img.shields.io/badge/-%23E34F26?style=flat&logo=html5&logoColor=white)
-![CSS](https://img.shields.io/badge/-%231572B6?style=flat&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/-%23F7DF1E?style=flat&logo=javascript&logoColor=white)
+<a href="https://en.wikipedia.org/wiki/C_(lenguaje_de_programación)">![C](https://img.shields.io/badge/-%23A8B9CC?style=flat&logo=c&logoColor=white)</a>
+<a href="https://www.java.com/es/">![Java](https://img.shields.io/badge/Java-%23DF0207?style=flat)</a>
+<a href="https://dotnet.microsoft.com/es-es/">![DotNet](https://img.shields.io/badge/-%23512BD4?style=flat&logo=dotnet)</a>
+<a href="https://www.python.org">![Python](https://img.shields.io/badge/-%233776AB?style=flat&logo=python&logoColor=white)</a>
+<a href="https://en.wikipedia.org/wiki/HTML">![HTML](https://img.shields.io/badge/-%23E34F26?style=flat&logo=html5&logoColor=white)</a>
+<a href="https://en.wikipedia.org/wiki/CSS">![CSS](https://img.shields.io/badge/-%231572B6?style=flat&logo=css3&logoColor=white)</a>
+<a href="https://en.wikipedia.org/wiki/JavaScript">![JavaScript](https://img.shields.io/badge/-%23F7DF1E?style=flat&logo=javascript&logoColor=white)</a>
 
 ###
 
