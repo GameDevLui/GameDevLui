@@ -12,7 +12,6 @@ I´m a junior programmer with 1 year of experience, currently specialized in Unr
 
 <br/>
 
-#
 
 <img align="left" alt="CPlusPlus" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /> 
 <img align="left" alt="CSharp" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
