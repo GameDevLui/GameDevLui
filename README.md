@@ -1,8 +1,12 @@
-# <div align="center"> Luis Miguel De La Torre Doval</div>
+# <div align="center"> <samp>Luis Miguel De La Torre Doval </samp></div>
 
  <a href="https://theoccultist.com"><img align="center" width="1050px" src="https://pbs.twimg.com/profile_banners/1345828075897040901/1723051514/600x200" /></a>
-
+ 
+<samp>
 I´m a junior programmer with 1 year of experience, currently specialized in Unreal Engine 4/5 and C++
+
+I started studying code as a software developer, it quickly felt boring to me since all I ended up doing were softwares that were useful and actually functional, but didn´t feel like a "creation" to me. That´s when I discovered ✨GAME ENGINES✨ and decided to give Unity a try. It amazed me how fascinating it was to write a bit of code and then, all of a sudden, I had created something alive(ish?)!. I decided to keep on studying and made a Master´s Degree on Videogame Programming, suffered Unreal Engine´s wrath and, after long months of learning and practicing, ended up loving it!. Right now I´m working hard to improve myself, learn new technologies and achieve new goals. 
+</samp>
 
 <div align="left">
   <a href="mailto:gamedevlui@gmail.com"><img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="gmail logo"  /></a>
@@ -41,14 +45,12 @@ I´m a junior programmer with 1 year of experience, currently specialized in Unr
 
 ---
 
+## <img src="https://media.giphy.com/media/Vv3whmM9XJpqE/giphy.gif" width="38"> Featured Projects
+
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
 </div>
-
-<details>
-  <summary><h3><img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Developer.gif" width="45" /> My Coding Adventure</h3></summary>
-I started studying code as a software developer, it quickly felt boring to me since all I ended up doing were softwares that were useful and actually functional, but didn´t feel like a "creation" to me. That´s when I discovered ✨GAME ENGINES✨ and decided to give Unity a try. It amazed me how fascinating it was to write a bit of code and then, all of a sudden, I had created something alive(ish?)!. I decided to keep on studying and made a Master´s Degree on Videogame Programming, suffered Unreal Engine´s wrath and, after long months of learning and practicing, ended up loving it!. Right now I´m working hard to improve myself, learn new technologies and achieve new goals.
-</details>
 
 <br clear="both">
 
