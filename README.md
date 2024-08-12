@@ -7,15 +7,19 @@ I´m a junior programmer with 1 year of experience, currently specialized in Unr
 
 # 🧰 Primary Skills
 
-> 🔭 Engines： ![Java](https://img.shields.io/badge/-Java-gray?style=flat-circle&logo=java)![Spring](https://img.shields.io/badge/-Spring-green?style=flat-circle&logo=spring)![Docker](https://img.shields.io/badge/-Docker-blue?style=flat-circle&logo=Docker)
+> 🔭 Engines：
+![Static Badge](https://img.shields.io/badge/Unreal-#0E1128?style=for-the-badge&logo=unrealengine)
+![Static Badge](https://img.shields.io/badge/Unity-white?style=for-the-badge&logo=unity&logoColor=black)
 
-> 👯 Languajes： ![JavaScript](https://img.shields.io/badge/-JavaScript-yellow?style=flat-circle&logo=javascript)![HTML5](https://img.shields.io/badge/-HTML5-yellow?style=flat-circle&logo=html5) ![CSS3](https://img.shields.io/badge/-CSS3-yellow?style=flat-circle&logo=css3)![VUE](https://img.shields.io/badge/-VUE-blue?style=flat-circle&logo=VUE)
+> 👯 Languajes：
+![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus)
+![Static Badge](https://img.shields.io/badge/CSharp-purple?style=for-the-badge)
 
 > 💻 Tools：
 ![MongoDB](https://img.shields.io/badge/-MongoDB-blue?style=flat-circle&logo=MongoDB)
-![Oracle](https://img.shields.io/badge/-Oracle-red?style=flat-circle&logo=Oracle)
-![Mysql](https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql)
-![Redis](https://img.shields.io/badge/-Redis-green?style=flat-circle&logo=Redis)
+> ![Oracle](https://img.shields.io/badge/-Oracle-red?style=flat-circle&logo=Oracle)
+> ![Mysql](https://img.shields.io/badge/-Mysql-white?style=flat-circle&logo=mysql)
+> ![Redis](https://img.shields.io/badge/-Redis-green?style=flat-circle&logo=Redis)
 
 <img align="left" alt="UnrealEngine" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/pheralb/svgl/5c82f5c8ee850fe1ae505978ae50296c9f5a6f29/static/library/unreal_engine_dark.svg" />
 <img align="left" alt="Unity" width="40px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />
