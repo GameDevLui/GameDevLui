@@ -22,38 +22,63 @@ I started studying code as a software developer, it quickly felt boring to me si
 # 🧰 Skills
 
 > ⚙️ Engines<br />
-![Static Badge](https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine)
-![Static Badge](https://img.shields.io/badge/Unity-white?style=for-the-badge&logo=unity&logoColor=black)
+![UnrealEngine](https://img.shields.io/badge/Unreal-0E1128?style=for-the-badge&logo=unrealengine)
+![Unity](https://img.shields.io/badge/Unity-white?style=for-the-badge&logo=unity&logoColor=black)
 
 > ⌨️ Languajes<br />
-![Static Badge](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus)
-![Static Badge](https://img.shields.io/badge/CSharp-%23A179DC?style=for-the-badge)
+![C++](https://img.shields.io/badge/C%2B%2B-%2300599C?style=for-the-badge&logo=cplusplus)
+![C#](https://img.shields.io/badge/CSharp-%23A179DC?style=for-the-badge)
 
 > 🛠️ Tools<br />
-![Static Badge](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Github-%23181717?style=for-the-badge&logo=github)
-![Static Badge](https://img.shields.io/badge/Perforce-%23404040?style=for-the-badge&logo=perforce)
-![Static Badge](https://img.shields.io/badge/Jira-%230052CC?style=for-the-badge&logo=jira)
-![Static Badge](https://img.shields.io/badge/Obsidian-%237C3AED?style=for-the-badge&logo=obsidian)
+![Git](https://img.shields.io/badge/Git-%23F05032?style=for-the-badge&logo=git&logoColor=white)
+![Github](https://img.shields.io/badge/Github-%23181717?style=for-the-badge&logo=github)
+![Perforce](https://img.shields.io/badge/Perforce-%23404040?style=for-the-badge&logo=perforce)
+![Jira](https://img.shields.io/badge/Jira-%230052CC?style=for-the-badge&logo=jira)
+![Obsidian](https://img.shields.io/badge/Obsidian-%237C3AED?style=for-the-badge&logo=obsidian)
 
 > 🎒 Other Skills<br />
-![Static Badge](https://img.shields.io/badge/-%23A8B9CC?style=flat&logo=c&logoColor=white)
-![Static Badge](https://img.shields.io/badge/Java-%23DF0207?style=flat)
-![Static Badge](https://img.shields.io/badge/-%23512BD4?style=flat&logo=dotnet)
-![Static Badge](https://img.shields.io/badge/-%233776AB?style=flat&logo=python&logoColor=white)
-![Static Badge](https://img.shields.io/badge/-%23E34F26?style=flat&logo=html5&logoColor=white)
-![Static Badge](https://img.shields.io/badge/-%231572B6?style=flat&logo=css3&logoColor=white)
-![Static Badge](https://img.shields.io/badge/-%23F7DF1E?style=flat&logo=javascript&logoColor=white)
+![C](https://img.shields.io/badge/-%23A8B9CC?style=flat&logo=c&logoColor=white)
+![Java](https://img.shields.io/badge/Java-%23DF0207?style=flat)
+![DotNet](https://img.shields.io/badge/-%23512BD4?style=flat&logo=dotnet)
+![Python](https://img.shields.io/badge/-%233776AB?style=flat&logo=python&logoColor=white)
+![HTML](https://img.shields.io/badge/-%23E34F26?style=flat&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/-%231572B6?style=flat&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/-%23F7DF1E?style=flat&logo=javascript&logoColor=white)
 
 ###
 
 ---
 
 ## <img src="https://media.giphy.com/media/Vv3whmM9XJpqE/giphy.gif" width="38"> Featured Projects
+<table style="width:100%">
+ <tr>
+  <td align="center">
+ 	 <a href="https://github.com/GameDevLui/DoorsShowcase"><img src="https://cdn-icons-png.flaticon.com/512/6051/6051164.png"></a>
+ 	 <strong><a href="https://github.com/GameDevLui/DoorsShowcase">Doors Showcase (UE)</a></strong>
+  </td>
+  <td align="center">
+   <a href="https://github.com/GameDevLui/VRShooter"><img src="https://cdn-icons-png.flaticon.com/512/6051/6051164.png"></a>
+	  <strong><a href="https://github.com/GameDevLui/VRShooter">VR Shooter</a></strong>
+	 </td>
+  <td align="center">
+	  <a href="https://github.com/GameDevLui/InspectablesShowcase"><img src="https://cdn-icons-png.flaticon.com/512/6051/6051164.png"></a>
+	  <strong><a href="https://github.com/GameDevLui/InspectablesShowcase">Inspectables Showcase (UE)</a></strong>
+	 </td>
+ </tr>
+ <tr>	
+	 <td align="center">
+  </td>
+  <td align="center">
+	  <div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs?username=GameDevLui&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
+   </div>
+  </td>
+	 <td align="center">
+  </td>
+	</tr>
+</table>
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=maurodesouza&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
+
 
 <br clear="both">
 
