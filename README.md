@@ -11,7 +11,7 @@ I´m a junior programmer with 1 year of experience, currently specialized in Unr
 <img align="left" alt="Unity" width="40px" style="padding-right:10px;" src="https://www.vectorlogo.zone/logos/unity3d/unity3d-icon.svg" />
 
 <br/>
-
+<br/>
 
 <img align="left" alt="CPlusPlus" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" /> 
 <img align="left" alt="CSharp" width="40px" style="padding-right:10px;" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg" />
