@@ -1,6 +1,6 @@
 # <div align="center"> <samp>Luis Miguel De La Torre Doval </samp></div>
 
- <a href="https://theoccultist.com"><img align="center" width="1050px" src="https://media.discordapp.net/attachments/1242433412757848135/1272557046436462793/1500x500.png?ex=66bb689a&is=66ba171a&hm=0eef52abd0629a6aef14eff1f04005b0eb7f15f3f59b9a257830ee7b9aae0279&=&format=webp&quality=lossless&width=1409&height=470" /></a>
+ <a href="https://theoccultist.com"><img align="center" width="1050px" src="https://theoccultist.com/wp-content/uploads/2024/08/TheOccultist-cover-logo.jpg" /></a>
  
 <samp>
 I´m a junior programmer with 1 year of experience, currently specialized in Unreal Engine 4/5 and C++<br /><br />
